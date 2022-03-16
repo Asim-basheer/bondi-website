@@ -38,6 +38,7 @@ ul {
 
 .navbar {
   background-color: var(--dark-color);
+  height: 72px;
 }
 
 .navbar .search {
@@ -63,7 +64,6 @@ ul {
 .landing {
   background-color: var(--dark-color);
   height: calc(100vh - 72px);
-  margin-top: 72px;
 }
 
 .features .icon-holder {

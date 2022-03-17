@@ -38,7 +38,6 @@ ul {
 
 .navbar {
   background-color: var(--dark-color);
-  height: 72px;
 }
 
 .navbar .search {
